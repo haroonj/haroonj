@@ -84,18 +84,18 @@ My Latest Projects
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=NoSQL-DB&theme=vue&show_owner=true#gh-light-mode-only"/>
 </a>
 
-<a href="https://github.com/haroonj/LeetCode#gh-dark-mode-only" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=LeetCode&theme=nightowl&show_owner=true#gh-dark-mode-only"/>
-</a>
-<a href="https://github.com/haroonj/LeetCode#gh-light-mode-only" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=LeetCode&theme=vue&show_owner=true#gh-light-mode-only"/>
-</a>
-
 <a href="https://github.com/haroonj/Chess#gh-dark-mode-only" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=Chess&theme=nightowl&show_owner=true#gh-dark-mode-only"/>
 </a>
 <a href="https://github.com/haroonj/Chess#gh-light-mode-only" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=Chess&theme=vue&show_owner=true#gh-light-mode-only"/>
+</a>
+
+<a href="https://github.com/haroonj/LeetCode#gh-dark-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=LeetCode&theme=nightowl&show_owner=true#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/haroonj/LeetCode#gh-light-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=LeetCode&theme=vue&show_owner=true#gh-light-mode-only"/>
 </a>
 
 <a href="https://github.com/haroonj/PrinciplesOfOOP#gh-dark-mode-only" target="_blank">
