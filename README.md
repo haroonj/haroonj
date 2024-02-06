@@ -70,29 +70,13 @@ contributing to innovative projects in fast-paced environments.
   <a href="https://github.com/haroonj#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonj&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="haroonj" /></a>
 </p>
 
-<br />
 
-<p>&nbsp;<a href="https://github.com/haroonj#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonj&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="haroonj" /></a>
-
-<a href="https://github.com/haroonj#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonj&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="haroonj" /></a>
-</p> 
-<br>
-<br />
-
-<p><a href="https://github.com/haroonj#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=haroonj&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/haroonj#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=haroonj&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
-<br />
-
-<p><a href="https://github.com/haroonj#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=haroonj&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/haroonj#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=haroonj&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
 
 ---
 
 My Latest Projects
 ---
-
+<!-- projects-start -->
 <a href="https://github.com/haroonj/NoSQL-DB#gh-dark-mode-only" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=NoSQL-DB&theme=nightowl&show_owner=true#gh-dark-mode-only"/>
 </a>
@@ -107,6 +91,21 @@ My Latest Projects
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=LeetCode&theme=vue&show_owner=true#gh-light-mode-only"/>
 </a>
 
+<a href="https://github.com/haroonj/Chess#gh-dark-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=Chess&theme=nightowl&show_owner=true#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/haroonj/Chess#gh-light-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=Chess&theme=vue&show_owner=true#gh-light-mode-only"/>
+</a>
+
+<a href="https://github.com/haroonj/PrinciplesOfOOP#gh-dark-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=PrinciplesOfOOP&theme=nightowl&show_owner=true#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/haroonj/PrinciplesOfOOP#gh-light-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=PrinciplesOfOOP&theme=vue&show_owner=true#gh-light-mode-only"/>
+</a>
+
+<!-- projects-end -->
 
 ---
 <h2>Connect With Me</h2>
