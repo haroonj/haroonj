@@ -105,6 +105,13 @@ My Latest Projects
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=PrinciplesOfOOP&theme=vue&show_owner=true#gh-light-mode-only"/>
 </a>
 
+<a href="https://github.com/haroonj/Video-Streaming-Services#gh-dark-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=Video-Streaming-Services&theme=nightowl&show_owner=true#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/haroonj/Video-Streaming-Services#gh-light-mode-only" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haroonj&repo=Video-Streaming-Services&theme=vue&show_owner=true#gh-light-mode-only"/>
+</a>
+
 <!-- projects-end -->
 
 ---
